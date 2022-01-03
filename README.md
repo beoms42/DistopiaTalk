@@ -7,3 +7,4 @@
 # TISTORY
 - https://fineday-42.tistory.com/4 - 스플래시아트 제작
 - https://fineday-42.tistory.com/5 - 스플래시아트 적용
+- https://fineday-42.tistory.com/6 - 소켓통신 초급 연습
