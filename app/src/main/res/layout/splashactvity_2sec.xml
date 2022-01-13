@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:background="#617DA3DC"
+	>
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_weight="1">
+
+
+		<ImageView
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:src="@drawable/circle_distopiatalk"></ImageView>
+
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="vertical">
+
+			<View
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:layout_weight="1"
+				>
+
+			</View>
+
+			<TextView
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:textAlignment="center"
+				android:text="DISTOPIA"
+				android:textSize="80dp"
+				android:layout_weight="1">
+			</TextView>
+
+			<View
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_weight="1"
+			>
+
+			</View>
+
+		</LinearLayout>
+
+
+	</RelativeLayout>
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_weight="2"
+		>
+	<ProgressBar
+		style="?android:attr/progressBarStyle"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:indeterminateDrawable="@drawable/circle_progress"
+		android:indeterminateDuration="1000"/>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_weight="2"
+			android:orientation="vertical">
+
+			<TextView
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="* Suvivors Only"
+				android:textColor="@color/black"
+				android:textSize="20sp"></TextView>
+
+			<TextView
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="** 대박이 출입가능"
+				android:textColor="@color/black"
+				android:textSize="20sp"></TextView>
+		</LinearLayout>
+
+	</RelativeLayout>
+
+
+
+
+</LinearLayout>
