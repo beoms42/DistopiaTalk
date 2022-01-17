@@ -11,3 +11,4 @@
 - https://fineday-42.tistory.com/7?category=911016 - 소켓통신 안드로이드 - 이클립스 간 연동
 - https://fineday-42.tistory.com/8?category=911016 - 소켓통신 안드로이드 - 이클립스 간 채팅
 - https://fineday-42.tistory.com/9?category=911016 - 리사이클러 뷰
+- https://fineday-42.tistory.com/10 - 지금까지 한거 합치기
