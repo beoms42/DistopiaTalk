@@ -10,3 +10,5 @@
 - https://fineday-42.tistory.com/6 - 소켓통신 초급 연습
 - https://fineday-42.tistory.com/7?category=911016 - 소켓통신 안드로이드 - 이클립스 간 연동
 - https://fineday-42.tistory.com/8?category=911016 - 소켓통신 안드로이드 - 이클립스 간 채팅
+- https://fineday-42.tistory.com/9 - 리사이클러 뷰 연습
+- https://fineday-42.tistory.com/10?category=911016 - 최종
